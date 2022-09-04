@@ -1,0 +1,15 @@
+C:\Users\Yasin\Documents\GitHub\Dotnet_Xml_Read_Write\xml_writeRead\xml_writeRead\bin\Debug\netcoreapp3.1\xml_writeRead.exe
+C:\Users\Yasin\Documents\GitHub\Dotnet_Xml_Read_Write\xml_writeRead\xml_writeRead\bin\Debug\netcoreapp3.1\xml_writeRead.deps.json
+C:\Users\Yasin\Documents\GitHub\Dotnet_Xml_Read_Write\xml_writeRead\xml_writeRead\bin\Debug\netcoreapp3.1\xml_writeRead.runtimeconfig.json
+C:\Users\Yasin\Documents\GitHub\Dotnet_Xml_Read_Write\xml_writeRead\xml_writeRead\bin\Debug\netcoreapp3.1\xml_writeRead.runtimeconfig.dev.json
+C:\Users\Yasin\Documents\GitHub\Dotnet_Xml_Read_Write\xml_writeRead\xml_writeRead\bin\Debug\netcoreapp3.1\xml_writeRead.dll
+C:\Users\Yasin\Documents\GitHub\Dotnet_Xml_Read_Write\xml_writeRead\xml_writeRead\bin\Debug\netcoreapp3.1\xml_writeRead.pdb
+C:\Users\Yasin\Documents\GitHub\Dotnet_Xml_Read_Write\xml_writeRead\xml_writeRead\obj\Debug\netcoreapp3.1\xml_writeRead.csproj.AssemblyReference.cache
+C:\Users\Yasin\Documents\GitHub\Dotnet_Xml_Read_Write\xml_writeRead\xml_writeRead\obj\Debug\netcoreapp3.1\xml_writeRead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Documents\GitHub\Dotnet_Xml_Read_Write\xml_writeRead\xml_writeRead\obj\Debug\netcoreapp3.1\xml_writeRead.AssemblyInfoInputs.cache
+C:\Users\Yasin\Documents\GitHub\Dotnet_Xml_Read_Write\xml_writeRead\xml_writeRead\obj\Debug\netcoreapp3.1\xml_writeRead.AssemblyInfo.cs
+C:\Users\Yasin\Documents\GitHub\Dotnet_Xml_Read_Write\xml_writeRead\xml_writeRead\obj\Debug\netcoreapp3.1\xml_writeRead.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Documents\GitHub\Dotnet_Xml_Read_Write\xml_writeRead\xml_writeRead\obj\Debug\netcoreapp3.1\xml_writeRead.dll
+C:\Users\Yasin\Documents\GitHub\Dotnet_Xml_Read_Write\xml_writeRead\xml_writeRead\obj\Debug\netcoreapp3.1\xml_writeRead.pdb
+C:\Users\Yasin\Documents\GitHub\Dotnet_Xml_Read_Write\xml_writeRead\xml_writeRead\obj\Debug\netcoreapp3.1\xml_writeRead.genruntimeconfig.cache
+C:\Users\Yasin\Documents\GitHub\Dotnet_Xml_Read_Write\xml_writeRead\xml_writeRead\bin\Debug\netcoreapp3.1\Settings.xml
